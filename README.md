@@ -46,10 +46,11 @@
   </header>
 
   <section>
-    <h2>저는 누구일까요?</h2>
+    <h2>안녕하세요</h2>
     <p>여기는 제가 만든 첫 번째 GitHub Pages 웹사이트입니다!</p>
     <p>프로그래밍 공부와 프로젝트 기록을 올릴 예정이에요 😄</p>
-
+    <p>어렵지만 열심히 해볼게요</p>
+    
     <h2>연락하기</h2>
     <p>
       📧 이메일: <a href="mailto:example@email.com">example@email.com</a><br>
